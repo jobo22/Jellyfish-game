@@ -1990,7 +1990,7 @@
                                 <parameter>&quot;SavedTreasure&quot;</parameter>
                                 <parameter>&quot;1&quot;</parameter>
                                 <parameter></parameter>
-                                <parameter>Treasure</parameter>
+                                <parameter>Treasure.global</parameter>
                             </parameters>
                             <subActions />
                         </action>
